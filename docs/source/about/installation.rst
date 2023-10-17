@@ -208,7 +208,7 @@ Portfile
 #. Install `MacPorts <https://www.macports.org>`__
 #. Update MacPorts Sources.
 
-   .. code-block:: csharp
+   .. code-block:: bash
 
       echo "file:///Users/$USER/ports" | sudo tee -a /opt/local/etc/macports/sources.conf
 
